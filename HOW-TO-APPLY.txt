@@ -1,0 +1,16 @@
+ATTARIYA HOSPITAL — CATH LAB UPDATE
+
+Only these existing project files were changed:
+1. index.html — Signature Cath Lab section on the homepage, after quick-access links.
+2. service-cath-lab.html — Full cardiac procedure overview and public source links.
+3. services.html — Featured Cath Lab section on services page.
+4. assets/css/styles.css — Styling for all new sections.
+
+HOW TO INSTALL:
+Extract this ZIP, then copy its files into your existing attariya-hospital-premium folder, keeping the same folder structure. Choose Replace when asked. Do NOT delete other files. No site.js changes required.
+
+IMPORTANT: The original news sources report the launch in November 2025. Confirm current treatment availability, doctor schedule and prices with the hospital before publishing.
+
+Sources:
+https://ekantipur.com/sudurpaschim-pradesh/2025/11/21/cath-lab-service-launched-in-the-far-west-20-12.html
+https://healthnewsnepal.com/news/attariya-hospital-cathlab-service/
